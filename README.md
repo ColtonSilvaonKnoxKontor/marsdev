@@ -16,6 +16,8 @@ Install the following packages, depending on your operating system:
   * Gentoo: `emerge sys-apps/texinfo net-misc/wget`
   * macOS: `xcode-select --install && brew install wget`
 
+For Haiku OS user, download `parallel` and `gnupg` using the application **HaikuDepot**.
+
 
 ### 2. GCC Toolchain
 
